@@ -3,7 +3,7 @@
 
 <ins>Contact Information</ins>
 * Email: Lvondran23@gmail.com
-* LinkedIn: https://www.linkedin.com/in/livian-von-dran
+* LinkedIn: [Livian's LinkedIn account](https://www.linkedin.com/in/livian-von-dran)
 * GithHub: [Livian-Von-Dran](https://github.com/Livian-Von-Dran)
 
 <ins>About Me</ins>
