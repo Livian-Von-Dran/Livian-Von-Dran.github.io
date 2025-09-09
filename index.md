@@ -1,4 +1,3 @@
-![Nebula Banner](/img/Nebula_Banner.png)
 <h1>
   The Astroentomology Zone
 </h1>
