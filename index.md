@@ -1,6 +1,5 @@
-# A fabulous Earth Data Science Portfolio
 ![Nebula Banner](/img/Nebula_Banner.png)
-# Livian Von Dran
+# A fabulous Earth Data Science Portfolio
 
 <ins>Contact Information</ins>
 * Email: Lvondran23@gmail.com
