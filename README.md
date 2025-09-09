@@ -1,4 +1,4 @@
-## ★ Hello! ཐི༏ཋྀ󠀮
+## ★ The Astroentomology Zone ཐི༏ཋྀ󠀮
 
 My name is Livian Von Dran, though most call me Liv for short. I am currently enrolled in the University of Colorado Boulder's Earth Data Analytics Professional Graduate Certificate program, and any works I develop can be found in the Livian-Von-Dran repository.
  
