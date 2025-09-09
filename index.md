@@ -1,7 +1,4 @@
-<h1>
-  The Astroentomology Zone
-</h1>
-
+![Nebula Banner](/img/Nebula_Banner.png)
 # Livian Von Dran
 # A fabulous Earth Data Science Portfolio
 
