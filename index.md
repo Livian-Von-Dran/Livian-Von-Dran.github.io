@@ -25,4 +25,3 @@ I am excited to participate in CU Boulder's Earth Data Analytics program for two
 <ins>EDA Portfolio</ins>
 
 <embed type="text/html" src=img/"Haskell Map.html" width="600" height="600">
-![Haskell Map](/img/Haskell Map.html)
