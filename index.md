@@ -22,5 +22,5 @@ I was born in England, though I have lived in numerous states courtesy of being 
 
 I am excited to participate in CU Boulder's Earth Data Analytics program for two reasons: I am interested in learning Python and data analysis for research purposes, and I am eager to learn more about earth science. A recent literature I conducted indicated there is not enough evidence to conclude if light pollution is impacting moths at a population level due to, in part, significant heterogeneity and regional biases in the spatiotemporal data of moth populations. I hope to develop the expertise needed to alleviate this data scarcity.
 
-# EDA Portfolio
+
 <embed type="text/html" src="/imghaskell.html" width="600" height="600">
