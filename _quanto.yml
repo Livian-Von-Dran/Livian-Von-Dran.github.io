@@ -16,7 +16,7 @@ execute:
   # Re-render only when source changes
   freeze: auto
 
-description-meta: "Livian"
+description-meta: "Livian Von Dran"
 
 website:
   title: "The Astroentomology Zone"
@@ -26,14 +26,14 @@ website:
   # favicon: /img/headshot.png 
   # cookie-consent: true    
   search: true
-  sidebar:
+  navbar:
     background: "#C4511E"
     pinned: true
-    align: center 
+    align: center
+    logo: /img/headshot.png
     tools:
       - icon: github
         href: https://github.com/Livian-Von-Dran
-    style: docked
     contents:
       - text: About
         href: about.qmd
