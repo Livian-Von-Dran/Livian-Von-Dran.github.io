@@ -1,6 +1,3 @@
-![Nebula Banner](/img/Nebula_Banner.png)
-# A fabulous Earth Data Science Portfolio
-
 <ins>Contact Information</ins>
 * Email: Lvondran23@gmail.com
 * LinkedIn: [Livian's LinkedIn account](https://www.linkedin.com/in/livian-von-dran)
