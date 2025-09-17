@@ -1,0 +1,56 @@
+project:
+  type: website
+  render:
+    - "*.qmd"
+    - "*.Rmd"
+    - "*.md"
+    - "!README.md"
+    - "!LICENSE.md"
+    - "!myresources/"
+    - "!certificate*"
+  output-dir: docs
+  resources:
+    - "files/"
+
+execute:
+  # Re-render only when source changes
+  freeze: auto
+
+description-meta: "Katherine Siegel"
+
+website:
+  title: "The Astroentomology Zone"
+  # site-url: https://livian-von-dran.github.io/
+  # repo-url: https://github.com/Livian-Von-Dran/Livian-Von-Dran.github.io/tree/main
+  # description: "The Astroentomology Zone"
+  # favicon: /img/headshot.png 
+  # cookie-consent: true    
+  search: true
+  sidebar:
+    background: "#C4511E"
+    pinned: true
+    align: center 
+    tools:
+      - icon: github
+        href: https://github.com/katherinesiegel
+    style: docked
+    contents:
+      - text: About
+        href: about.qmd
+        text: Experience
+        href: experience.qmd
+      - text: Research and Publications
+        href: research-and-publications.qmd
+      - text: EDA Portfolio
+        href: eda-portfolio.qmd
+      
+format:
+  html:
+    theme: yeti
+    toc: true
+    code-link: true
+    anchor-sections: true
+    fig-cap-location: margin
+    reference-location: margin
+    footnotes-hover: true
+    highlight-style: monokai
