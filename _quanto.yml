@@ -16,7 +16,7 @@ execute:
   # Re-render only when source changes
   freeze: auto
 
-description-meta: "Katherine Siegel"
+description-meta: "Livian"
 
 website:
   title: "The Astroentomology Zone"
@@ -32,7 +32,7 @@ website:
     align: center 
     tools:
       - icon: github
-        href: https://github.com/katherinesiegel
+        href: https://github.com/Livian-Von-Dran
     style: docked
     contents:
       - text: About
@@ -46,7 +46,7 @@ website:
       
 format:
   html:
-    theme: yeti
+    theme: midnight
     toc: true
     code-link: true
     anchor-sections: true
